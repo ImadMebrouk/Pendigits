@@ -72,3 +72,15 @@ Les données en entrées sont déjà préparés pour appliquer un modèle de mac
 		 k =  9 : 97.46
 		 k = 10 : 97.48
 		 k = 11 : 97.34
+
+## Objectifs 
+
+- Prédire le chiffre target grâce aux 16 attributs qui composent le dataset.
+
+- Visualisation des donnéese. 
+
+- Préparation des données (ici Le dataset est déjà prêt pour l’utilisation de modèles de machine learning).
+
+- Appliquer les différents modèles de machine learning, comme le SVM, XGBoost Classifier,  le K-NN et Random Forest.
+
+- Visualiser les performances des différents modèles.
