@@ -77,7 +77,7 @@ Les données en entrées sont déjà préparés pour appliquer un modèle de mac
 
 - Prédire le chiffre target grâce aux 16 attributs qui composent le dataset.
 
-- Visualisation des donnéese. 
+- Visualisation des données. 
 
 - Préparation des données (ici Le dataset est déjà prêt pour l’utilisation de modèles de machine learning).
 
